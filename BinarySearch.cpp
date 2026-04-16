@@ -33,3 +33,11 @@ void input()
     }
 
 }
+
+void display()
+{
+    cout << "\n=====================================\n";
+    cout << "  Element Array Setelah Diurutkan (Asc)\n";
+    cout << "\n=====================================\n";
+
+}
